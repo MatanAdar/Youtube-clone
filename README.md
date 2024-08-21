@@ -1,4 +1,4 @@
-Hii everyone
+Hii everyone 👋
 
 Welcome to this project, a front-end clone of YouTube, inspired by the popular video-sharing platform we all know.
 
