@@ -24,7 +24,7 @@
     }
 }
 .video-preview{
-    
+    cursor: pointer;
 }
 .thumbnail-row{
     margin-bottom: 8px;
